@@ -1,0 +1,2 @@
+# SnapStream
+Crafted with expertise in HTML, CSS, and vanilla JavaScript, my web camera application is a testament to innovation. This versatile solution seamlessly integrates a host of browser APIs, including MediaStream, MediaRecorder, MediaDevices, and IndexedDB, to empower users with dynamic features. Record videos, capture snapshots, and curate a personal gallery while exploring creative possibilities with four distinct filters. Elevate your web experience and enjoy secure client-side storage—all thanks to the power of my web camera project.
